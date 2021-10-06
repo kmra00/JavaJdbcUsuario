@@ -1,4 +1,6 @@
+domain\Persona.class
 datos\Conexion.class
 test\ManejoUsuarios.class
 datos\UsuarioJDBC.class
+datos\PersonaJDBC.class
 domain\Usuario.class
